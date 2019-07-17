@@ -1,0 +1,11 @@
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Debug\netcoreapp2.1\FBMetadataRemover.deps.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Debug\netcoreapp2.1\FBMetadataRemover.runtimeconfig.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Debug\netcoreapp2.1\FBMetadataRemover.runtimeconfig.dev.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Debug\netcoreapp2.1\FBMetadataRemover.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Debug\netcoreapp2.1\FBMetadataRemover.pdb
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.csprojAssemblyReference.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.csproj.CoreCompileInputs.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.AssemblyInfoInputs.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.AssemblyInfo.cs
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Debug\netcoreapp2.1\FBMetadataRemover.pdb

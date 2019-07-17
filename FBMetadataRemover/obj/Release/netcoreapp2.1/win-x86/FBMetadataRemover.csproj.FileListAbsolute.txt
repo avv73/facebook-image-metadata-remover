@@ -1,0 +1,14 @@
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.exe
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.deps.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.runtimeconfig.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.runtimeconfig.dev.json
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\bin\Release\netcoreapp2.1\win-x86\FBMetadataRemover.pdb
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.csprojAssemblyReference.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.csproj.CoreCompileInputs.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.AssemblyInfoInputs.cache
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.AssemblyInfo.cs
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.dll
+C:\Users\ALEX-TEDY\source\repos\FBMetadataRemover\obj\Release\netcoreapp2.1\win-x86\FBMetadataRemover.pdb
